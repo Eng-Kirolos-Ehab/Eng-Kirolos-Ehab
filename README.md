@@ -67,6 +67,20 @@ I build **apps, websites and the systems behind them**: a Flutter food-delivery 
 - **Big data**: auditing and repairing thousands of records, bulk rewrites with backup and rollback
 - **Device UI**: replacing slow stock launchers on projectors and tablets with custom interfaces
 
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eng-Kirolos-Ehab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Kirolos-Ehab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+</p>
+
+## Now
+
+- Shipping updates to the eight KERMI apps and writing guides for them (English + Arabic)
+- Building Flutter features and performance fixes for Meat Station
+- Growing The Saudi Times through technical SEO and AI-assisted publishing
+- Exploring AI agents that triage jobs, tailor CVs and track applications
+
 ## Featured
 
 - [**kyrolosehab.me**](https://kyrolosehab.me): my interactive portfolio, with a live Capability Lab
