@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Impact in numbers">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00D2FF"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<style>.n{font:800 60px 'Segoe UI',Arial,sans-serif;fill:url(#g)}.l{font:500 19px 'Segoe UI',Arial,sans-serif;fill:#93A3C4}.h{font:700 18px 'Consolas','Courier New',monospace;fill:#5E7396;letter-spacing:4px}</style></defs>
+<rect width="1200" height="190" rx="24" fill="#0A0F1E" stroke="#1C2742"/>
+<text x="40" y="40" class="h">IMPACT IN NUMBERS</text>
+<text x="40" y="120" class="n">4+</text><text x="40" y="156" class="l">years remote</text>
+<text x="272" y="120" class="n">5</text><text x="272" y="156" class="l">companies, 4 countries</text>
+<text x="504" y="120" class="n">8 to 40</text><text x="504" y="156" class="l">Semrush score</text>
+<text x="736" y="120" class="n">1,246</text><text x="736" y="156" class="l">records fixed</text>
+<text x="968" y="120" class="n">8</text><text x="968" y="156" class="l">apps live</text>
+</svg>
