@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Kirolos Ehab, Founder of KERMI, Systems Architect and AI Engineer" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Kirolos Ehab, Founder of KERMI, Systems Architect and AI Engineer" width="100%"></p>
 
 <p align="center">
   <a href="https://kyrolosehab.me"><img src="https://img.shields.io/badge/Portfolio-kyrolosehab.me-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -18,6 +18,8 @@ I build **apps, websites and the systems behind them**: a Flutter food-delivery 
 - Looking for a long-term role with a major Egyptian company, open to remote collaboration too
 
 ## KERMI: the product line
+
+<p align="center"><img src="assets/kermi-numbers.svg" alt="KERMI by the numbers" width="100%"></p>
 
 <p align="center">
   <a href="https://kermi.one/vexa"><img src="assets/vexa-wide.png" height="46"></a>&nbsp;&nbsp;
@@ -41,7 +43,8 @@ I build **apps, websites and the systems behind them**: a Flutter food-delivery 
 | **Kermi Lumo** | Fast, ad-free Google-TV-style launcher for projectors and TV boxes | Android TV |
 | **Kermi Domi** | Old tablet turned into a wall-mounted Home Assistant smart-home panel | Android |
 
-## Toolbox
+<details open>
+<summary><b>Toolbox</b></summary>
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -59,6 +62,8 @@ I build **apps, websites and the systems behind them**: a Flutter food-delivery 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</details>
 
 ## What I'm good at
 
@@ -80,6 +85,15 @@ I build **apps, websites and the systems behind them**: a Flutter food-delivery 
 - Building Flutter features and performance fixes for Meat Station
 - Growing The Saudi Times through technical SEO and AI-assisted publishing
 - Exploring AI agents that triage jobs, tailor CVs and track applications
+
+## Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-Kirolos-Ehab/Eng-Kirolos-Ehab/output/github-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Eng-Kirolos-Ehab/Eng-Kirolos-Ehab/output/github-snake.svg">
+  </picture>
+</p>
 
 ## Featured
 
